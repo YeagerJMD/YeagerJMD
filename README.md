@@ -23,7 +23,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,c,cs,tailwind" />
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,figma, " /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" /><br>
 </div>
 
 <br/>
